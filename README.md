@@ -1,2 +1,2 @@
-# guizaoni
-brush the wall with guizaoni
+# Diatom mud
+brush the wall with diatom mud
