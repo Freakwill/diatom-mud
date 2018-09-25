@@ -76,4 +76,4 @@
 
 
 
-![](/Users/william/Folders/生活/house/照片/硅藻泥/IMG_1150.JPG)
+![](photos/IMG_1150.JPG)
